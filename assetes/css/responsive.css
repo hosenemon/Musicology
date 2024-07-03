@@ -1,0 +1,19 @@
+@media screen and (max-width:768px) {
+    
+    .search_form_wrap {
+        width: 100%;
+        position: relative;
+    }
+    .search_input {
+        position: absolute;
+        top: 0;
+    }
+    .dance_text {
+        margin: 15px 0;
+    }
+    .newslatter_form input[type="submit"]{
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+}
